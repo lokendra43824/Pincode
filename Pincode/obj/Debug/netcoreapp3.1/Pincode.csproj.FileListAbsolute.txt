@@ -1,0 +1,13 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\bin\Debug\netcoreapp3.1\Pincode.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\Pincode\Pincode\obj\Debug\netcoreapp3.1\Pincode.genruntimeconfig.cache
