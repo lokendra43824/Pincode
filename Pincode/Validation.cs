@@ -22,7 +22,7 @@ namespace PincodeValidation
 
            public static bool validatePinCode(string pinCode)
         {
-            String pattern = @"(^[1-9]{1}[0-9]{5}$)";
+            String pattern = "^[1-9]{1}[0-9]{2}\\s{0,1}[0-9]{3}$";
             Regex re = new Regex(pattern);
             if(re.IsMatch(pinCode))
             {
